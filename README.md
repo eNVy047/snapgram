@@ -32,3 +32,15 @@ export default {
 - # 'npm run dev "
 # Screenshot
 ![screencapture-localhost-5173-2024-07-16-22_30_54](https://github.com/user-attachments/assets/3c1f8168-a61b-4aec-bcca-dbc83a612424)
+
+#git 
+make .env.local ile
+(
+VITE_APPWRITE_PROJECT_ID='6584e3565d3da7967893'
+VITE_APPWRITE_URL='https://cloud.appwrite.io/v1'
+VITE_APPWRITE_STORAGE_ID='6585c558a26ffef76532'
+VITE_APPWRITE_DATABASE_ID='6585c60a9e38f7b0b455'
+VITE_APPWRITE_USER_COLLECTION_ID='6585c751caed1952fc4b'
+VITE_APPWRITE_POST_COLLECTION_ID='6585c67a285de0edcc40'
+VITE_APPWRITE_SAVES_COLLECTION_ID='6585c78a8dd4b2013b35'
+)
