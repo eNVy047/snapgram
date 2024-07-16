@@ -30,3 +30,5 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 - # 'npm run dev "
+# Screenshot
+![screencapture-localhost-5173-2024-07-16-22_30_54](https://github.com/user-attachments/assets/3c1f8168-a61b-4aec-bcca-dbc83a612424)
